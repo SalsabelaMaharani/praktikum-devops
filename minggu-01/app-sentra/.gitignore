@@ -1,5 +1,6 @@
-app.log
-ringkasan-log.txt
 .venv/
-app.log
+__pycache__/ 
+*.pyc
+.env
+*.log
 ringkasan-log.txt
